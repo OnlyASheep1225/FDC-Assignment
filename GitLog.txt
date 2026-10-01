@@ -1,0 +1,8 @@
+* 68d343c Complete testing and improvements
+* d657b76 Add watchlist file saving
+* 5d1a359 Add watchlist display
+* e11aa98 Add watchlist feature
+* d7470db Add movie catalog and recommendation features
+* 73c3190 Add short welcome
+* c7f75ce Add main menu
+* 6b82768 Initial project setup
